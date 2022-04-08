@@ -1,0 +1,31 @@
+Parte 1: Configurando sua conta de GitHub
+Os primeiros passos para começar com GitHub são criar uma conta, escolher um produto que se adeque melhor às suas necessidades, verificar o seu e-mail, configurar a autenticação de dois fatores e verificar o seu perfil.
+
+Existem vários tipos de contas em GitHub. Toda pessoa que usar GitHub terá sua própria conta de usuário e poderá fazer parte de várias organizações e equipes. A sua conta de usuário é sua identidade em GitHub.com e representa você como indivíduo.
+
+1. Criar uma conta
+Para se inscrever em uma conta em GitHub.com, acesse https://github.com/ e siga as instruções.
+
+Para manter a sua conta de GitHub segura, você deverá usar uma senha forte e exclusiva. Para obter mais informações, consulte "Criar uma senha forte".
+
+2. Escolhendo seu produto de GitHub
+Você pode escolher GitHub Free ou GitHub Pro para obter acesso a diferentes recursos da sua conta pessoal. Você pode fazer a atualização a qualquer momento se não tiver certeza qual o produto você deseja.
+
+Para obter mais informações sobre todos os planos de GitHub, consulte "Produtos de GitHubde".
+
+3. Verificar endereço de e-mail
+Para garantir que você possa utilizar todos os recursos do seu plano de GitHub, verifique o seu endereço de e-mail após inscrever-se em uma nova conta. Para obter mais informações, consulte "Verificar o endereço de e-mail".
+
+4. Configurando a autenticação de dois fatores
+A autenticação de dois fatores, ou 2FA, é uma camada extra de segurança usada no logon em sites ou apps. É altamente recomendável que você configure a 2FA para a segurança da sua conta. Para obter mais informações, consulte "Sobre a autenticação de dois fatores".
+
+5. Visualizando seu GitHub perfil e gráfico de contribuição
+Seu perfil de GitHub conta a história do seu trabalho por meio dos repositórios e dos gists que você fixou, as associações da organização que você escolheu divulgar, as contribuições que você fez e os projetos que você criou. Para obter mais informações, consulte "Sobre o seu perfil" e "Visualizando as contribuições no seu perfil".
+
+Parte 2: Usando ferramentas e processos de GitHub
+Para usar GitHub da melhor forma, você deverá configurar o Git. O Git é responsável por tudo relacionado ao GitHub que acontece localmente no computador. Para colaborar de forma efetiva em GitHub, você escreverá em problemas e pull requests usando o Markdown enriquecido de GitHub.
+
+1. Aprendendo a usar o Git
+A abordagem colaborativa do GitHub para o desenvolvimento depende da publicação dos commits do repositório local para GitHub para que outras pessoas vejam, busquem e atualizem outras pessoas que usam o Git. Para obter mais informações sobre o Git, consulte o guia "Manual do Git". Para obter mais informações sobre como Git é usado em GitHub, consulte "Fuxo de GitHub".
+
+

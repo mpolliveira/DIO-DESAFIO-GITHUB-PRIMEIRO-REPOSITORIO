@@ -1,0 +1,12 @@
+INTRODUÇÃO GIT 
+
+Com uma conta de usuário no GitHub, você pode importar ou criar repositórios, colaborar com outros e conectar-se com a comunidade de GitHub.
+
+O GitHub Desktop é um aplicativo que permite que você interaja com o GitHub usando uma GUI em vez da linha de comando ou de um navegador web. GitHub Desktop incentiva você e sua equipe a colaborar usando as melhores práticas com Git e GitHub. Você pode usar GitHub Desktop para realizar a maioria dos comandos do Git a partir de seu computador com a confirmação visual das mudanças. Você pode fazer subir, extrair e clonar repositórios remotos com o GitHub Desktop e usar ferramentas colaborativas como atribuir commits e criar pull requests.
+
+Este guia ajudará você a dar os primeiros passos com GitHub Desktop criando o aplicativo, autenticando sua conta, configurando as configurações básicas e introduzindo os fundamentos do gerenciamento de projetos com GitHub Desktop. Você poderá usar o GitHub Desktop para colaborar em projetos e conectar-se a repositórios remotos depois de trabalhar neste guia.
+
+Você pode achar útil ter um entendimento básico do Git e do GitHub antes de começar a usar o GitHub Desktop. Para obter mais informações, consulte os seguintes artigos.
+
+
+

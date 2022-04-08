@@ -1,0 +1,29 @@
+Para usar GitHub da melhor forma, você deverá configurar o Git. O Git é responsável por tudo relacionado ao GitHub que acontece localmente no computador. Para colaborar de forma efetiva em GitHub, você escreverá em problemas e pull requests usando o Markdown enriquecido de GitHub.
+
+1. Aprendendo a usar o Git
+A abordagem colaborativa do GitHub para o desenvolvimento depende da publicação dos commits do repositório local para GitHub para que outras pessoas vejam, busquem e atualizem outras pessoas que usam o Git. Para obter mais informações sobre o Git, consulte o guia "Manual do Git". Para obter mais informações sobre como Git é usado em GitHub, consulte "Fuxo de GitHub".
+
+2. Configurar o Git
+Se você planeja usar o Git localmente no seu computador, por meio da linha de comando, editor de IDE ou texto, você deverá instalar e configurar o Git. Para obter mais informações, consulte "Configurar o Git".
+
+Se você preferir usar uma interface visual, você poderá fazer o download e usar GitHub Desktop. GitHub Desktop vem empacotado com o Git. Portanto não há a necessidade de instalar o Git separadamente. Para obter mais informações, consulte "Introdução ao GitHub Desktop".
+
+Depois de instalar o Git, você poderá conectar-se aos repositórios de GitHub a partir do seu computador local, independentemente de ser o seu próprio repositório ou a bifurcação de outro usuário. Ao conectar-se a a um repositório no GitHub.com do Git, você deveá efetuar a autenticação com GitHub usando HTTPS ou SSH. Para obter mais informações, consulte "Sobre repositórios remotos."
+
+3. Escolhendo como interagir com GitHub
+Todos têm seu próprio fluxo de trabalho único para interagir com GitHub; as interfaces e métodos que você usa dependem da sua preferência e do que funciona melhor para as suas necessidades.
+
+Para obter mais informações sobre como efetuar a autenticação em GitHub com cada um desses métodos, consulte "Sobre autenticação em GitHub".
+
+4. Escrevendo em GitHub
+Para deixar sua comunicação clara e organizada nos problemas e pull requests, você pode usar o Markdown enriquecido GitHub para formatação, que combina uma sintaxe fácil de ler e fácil de escrever com algumas funcionalidades personalizadas. Para obter mais informações, consulte "Sobre gravação e formatação no GitHub".
+
+Você pode aprender o Markdown enriquecido de GitHub com o curso "Comunicando-se usando o Markdown" em GitHub Learning Lab.
+
+5. Pesquisando em GitHub
+Nossa pesquisa integrada permite que você encontre o que você está procurando entre os muitos repositórios, usuários e linhas de código em GitHub. Você pode pesquisar globalmente em todos os GitHub ou limitar sua pesquisa a um repositório ou organização em particular. Para obter mais informações sobre os tipos de pesquisas que você pode fazer em GitHub, consulte "Sobre pesquisar no GitHub".
+
+Nossa sintaxe de pesquisa permite que você construa consultas usando qualificadores para especificar o que você deseja pesquisar. Para obter mais informações sobre a sintaxe de pesquisa para usar na pesquisa, consulte "Pesquisando em GitHub".
+
+6. Gerenciando arquivos em GitHub
+Com GitHub, você pode criar, editar, mover e excluir arquivos no seu repositório ou em qualquer repositório ao qual você tenha acesso de gravação. Você também pode acompanhar o histórico de alterações de um arquvo linha por linha. Para obter mais informações, consulte "Gerenciar arquivos em GitHub".
